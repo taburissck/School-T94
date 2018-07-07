@@ -1,3 +1,4 @@
 this is git test file.
-this file is readme.txt
+this file name is readme.txt
 git commit is file commit;
+git log see git logs
