@@ -7,3 +7,4 @@ juest two
 three
 Creating a new branch is quick and simple.
 creat dev,and add,and commit
+bug dev,del bug three
